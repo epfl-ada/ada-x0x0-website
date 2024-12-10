@@ -1,9 +1,11 @@
 theme: jekyll-theme-minimal
-title: ADA Template Website
-description: A template website for ADA
+title:  Exploring Geographical Bias in Beer Ratings : "Is Your State Swaying Your Sip?"
+description: The X0x0 team website for ADA
 show_downloads: True
 navigation:
   - title: Home
-    url: /
+    url: README
   - title: Example
-    url: example
+    url: /
+  - title : Why selecting the US?
+    url: USselection
